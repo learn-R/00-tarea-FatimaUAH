@@ -73,19 +73,24 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Fátima Verónica Lusangi Vargas 
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R:R es un software, un lenguaje  de programación de código abierto que permite visualizar y procesar datos estadísticos, mientras que RStudio se define como un ambiente para visualizar los resultados del trabajo realizado en R de forma mas cómoda y sencilla  
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
+R: Con el comando Push (luego de realizar Commit)
+
 4. Crea un .Rproject llamado 00-tarea.Rproject
+
+R: Listo
 
 5. En el repositorio, crea una carpeta llamada "imagenes". Dentro de esta carpeta deja una imagen de tu sociólogo/a o cientista social preferido/a. Al archivo debes llamarlo "sociologo-preferido.jpg"
 
+R: Listo, es Avtar Brah
 
 ## Recursos
 
